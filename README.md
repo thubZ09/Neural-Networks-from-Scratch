@@ -1,4 +1,4 @@
-# Neural-Network-from-Scratch
-Building a simple Neural Network with an input layer, two hidden layers, and one output layer to classify the images of Fashion-MNIST dataset, without using any ML library - only NumPy.
+##Custom Neural Network Implementation
+Developing a basic Neural Network with an input layer, two hidden layers, and an output layer to classify images from the Fashion-MNIST dataset. This will be achieved using only NumPy, avoiding any machine learning libraries.
 
-Aim: to understand in detail what happens inside a neural network while building it from scratch.
+Objective: To gain a comprehensive understanding of the internal workings of a neural network by constructing it step by step.
