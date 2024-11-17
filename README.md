@@ -1,4 +1,4 @@
-##Custom Neural Network Implementation
+Custom Neural Network Implementation♾️
 
 Developing a basic Neural Network with an input layer, two hidden layers, and an output layer to classify images from the Fashion-MNIST dataset. This will be achieved using only NumPy, avoiding any machine learning libraries.
 
